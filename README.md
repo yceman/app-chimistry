@@ -1,2 +1,2 @@
 # app-chemistry
-Chimistry App
+Chemistry App
